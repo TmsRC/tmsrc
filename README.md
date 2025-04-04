@@ -1,11 +1,4 @@
-## Helloooo peeps 👋
-
-I'm an MSc Student at the University of Edinburgh interested in everything scientific computing, from numerical simulation to neural networks and everything in between.
-
-- 🔭 I’m currently working on updating several of the projects in this repository! Many of them have updates that haven't been added, others have been privated due to unresolved outside circumstances that are currently being solved, and some I am just interested in revisiting!
-- 🌱 I’m currently studying for an MSc in High Performance Computing. Every day is a new set of lessons, hard to keep track of everything.
-- 👯 I’m always looking to collaborate on simulation projects. Right now I'm starting work with [Yat Fung](https://github.com/YatFungLoo) on his new exciting project: the [super-duper-n-body-simulation](https://github.com/YatFungLoo/super-duper-n-body-simulation.git).
-- ⚡ Right now, learning about DFT is my main personal interest!
+Very busy right now :(
 
 <!--
 - 🤔 I’m looking for help with ...
